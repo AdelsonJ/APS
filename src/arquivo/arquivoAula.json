@@ -1,0 +1,1 @@
+{"aula":[{"professor":1,"alunos":[],"capacidade":50,"frequencia":true,"dias":["QUINTA"],"materia":"APS","id":1,"duracao":110,"descricao":null},{"professor":1,"alunos":[],"capacidade":50,"frequencia":true,"dias":["TERCA"],"materia":"CLP","id":2,"duracao":110,"descricao":null}]}

@@ -1,0 +1,15 @@
+{
+    "aluno": [
+        {
+            "senha": "9",
+            "mesNasc": 4,
+            "anoNasc": 2003,
+            "aulas": null,
+            "diaNasc": 9,
+            "nome": "Adelson",
+            "id": 1,
+            "sobrenome": "Junior",
+            "email": "adelson@email.com"
+        }
+    ]
+}
